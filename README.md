@@ -34,3 +34,5 @@
 <p><img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenolyes&show_icons=true&theme=dark&locale=en&layout=compact" alt="brenolyes" /></p>
 
 <p>&nbsp;<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=brenolyes&show_icons=true&theme=dark&locale=en" alt="brenolyes" /></p>
+
+![Snake animation](https://github.com/brenolyES/brenolyES/blob/output/github-contribution-grid-snake.svg)
