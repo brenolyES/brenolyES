@@ -1,4 +1,4 @@
-<h1 align="center">Oie 👋, tudo bem?, me chamo brenoly, no que posso ajudar?</h1>
+<h1 align="center">Fala dev👋, brenoly aqui!</h1>
 <h3 align="center">Sou mais um desenvolvedor front-end apaixonado pelo que faz!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenolyes&label=Profile%20views&color=0e75b6&style=flat" alt="brenolyes" /> </p>
