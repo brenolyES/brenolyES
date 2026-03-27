@@ -5,17 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenolyes" alt="brenolyes" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [Unidasul](https://rissul.com.br/)
+- 🔭 Atualmente estou trabalhando procurando vaga de emprego.
 
-- 🌱 Atualmente estou aprendendo **React e React Native**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brenolyES?tab=repositories](https://github.com/brenolyES?tab=repositories)
-
-- 💬 Pergunte-me sobre **React, Javascript, Css, Html, Figma, React Native, Web, Mobile...**
-
-- 📫 Como chegar até mim **brenoly.porto@upe.br**
-
-- 📄 Conheça minhas experiências [https://github.com/brenolyES](https://github.com/brenolyES)
+- 📫 Como chegar até mim **brenoly.dev@gmail.com**
 
 - ⚡ Curiosidade **Meu hobby favoritos depois da programação é a música!**
 
